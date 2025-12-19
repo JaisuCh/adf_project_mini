@@ -1,0 +1,6 @@
+date,country,new_admissions,total_admissions,icu_admissions
+2020-03-01,United Kingdom,5,5,1
+2020-03-02,United Kingdom,12,17,3
+2020-03-01,Italy,120,120,25
+2020-03-02,Italy,150,270,40
+2020-03-01,United States,20,20,5

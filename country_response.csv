@@ -1,0 +1,6 @@
+country,date,response_type,description,response_level
+United Kingdom,2020-03-23,lockdown,National lockdown announced,3
+India,2020-03-24,lockdown,Nationwide lockdown imposed,3
+United States,2020-03-15,travel_restriction,International travel restricted,2
+Italy,2020-03-09,lockdown,Countrywide lockdown,3
+Spain,2020-03-14,lockdown,State of emergency declared,3

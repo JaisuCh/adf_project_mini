@@ -1,0 +1,6 @@
+date,country,tests_conducted,positive_tests,positivity_rate
+2020-03-01,United Kingdom,1500,36,2.4
+2020-03-02,United Kingdom,1800,40,2.2
+2020-03-01,India,800,3,0.4
+2020-03-02,India,1200,5,0.4
+2020-03-01,United States,2000,75,3.8

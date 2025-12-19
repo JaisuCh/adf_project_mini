@@ -1,0 +1,6 @@
+date,country,new_cases,new_deaths,total_cases,total_deaths
+2020-03-01,United States,75,1,75,1
+2020-03-02,United States,100,2,175,3
+2020-03-01,Italy,566,5,1694,34
+2020-03-02,Italy,342,6,2036,40
+2020-03-01,Spain,84,1,84,1
